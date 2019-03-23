@@ -1,0 +1,25 @@
+﻿  main.cpp
+c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(96): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(95): note: 클래스 템플릿 멤버 함수 'std::ostream &operator <<(std::ostream &,const SimpleTable<int> &)'을(를) 컴파일하고 있습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\main.cpp(8): note: 컴파일 중인 클래스 템플릿 인스턴스화 'SimpleTable<int>'에 대한 참조를 확인하세요.
+c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(72): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(71): note: 클래스 템플릿 멤버 함수 'void SimpleTable<int>::fillTable(void)'을(를) 컴파일하고 있습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\main.cpp(9): note: 컴파일 중인 함수 템플릿 인스턴스화 'void SimpleTable<int>::fillTable(void)'에 대한 참조를 확인하십시오.
+c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(58): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(55): note: 클래스 템플릿 멤버 함수 'SimpleTable<int>::~SimpleTable(void)'을(를) 컴파일하고 있습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\main.cpp(8): note: 컴파일 중인 함수 템플릿 인스턴스화 'SimpleTable<int>::~SimpleTable(void)'에 대한 참조를 확인하십시오.
+c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(32): note: 클래스 템플릿 멤버 함수 'SimpleTable<int>::SimpleTable(std::ifstream &)'을(를) 컴파일하고 있습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\main.cpp(8): note: 컴파일 중인 함수 템플릿 인스턴스화 'SimpleTable<int>::SimpleTable(std::ifstream &)'에 대한 참조를 확인하십시오.
+c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(88): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(87): note: 클래스 템플릿 멤버 함수 'void SimpleTable<int>::fillArray(std::ifstream &)'을(를) 컴파일하고 있습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(43): note: 컴파일 중인 함수 템플릿 인스턴스화 'void SimpleTable<int>::fillArray(std::ifstream &)'에 대한 참조를 확인하십시오.
+c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(76): note: 컴파일 중인 함수 템플릿 인스턴스화 'T getMin<T>(T *,int,int)'에 대한 참조를 확인하십시오.
+          with
+          [
+              T=int
+          ]
+  c:\shoon\coding\stanford-cs166\rmq\rmq\simple_table.hpp(71): note: 클래스 템플릿 멤버 함수 'void SimpleTable<int>::fillTable(void)'을(를) 컴파일하고 있습니다.
+  c:\shoon\coding\stanford-cs166\rmq\rmq\main.cpp(9): note: 컴파일 중인 함수 템플릿 인스턴스화 'void SimpleTable<int>::fillTable(void)'에 대한 참조를 확인하십시오.
+  RMQ.vcxproj -> C:\shoon\coding\Stanford-CS166\RMQ\Debug\RMQ.exe
