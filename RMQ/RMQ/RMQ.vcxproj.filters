@@ -23,5 +23,8 @@
     <ClInclude Include="simple_table.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="preprocessing.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -59,7 +59,7 @@ public:
         }
     }
 
-    T getMin(size_t front, size_t rear)
+    T getMin(size_t front, size_t rear) const
     {
         T min = table[front][front];
         for ( size_t idx = front; idx <= rear; ++idx )
@@ -72,7 +72,7 @@ public:
         return min;
     }
 
-    T answer(size_t i, size_t j)
+    T answer(size_t i, size_t j) const
     {
         return table[j][i];
     }
