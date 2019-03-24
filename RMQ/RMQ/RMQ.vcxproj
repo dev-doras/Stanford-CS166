@@ -142,6 +142,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="block_partition.hpp" />
     <ClInclude Include="simple_table.hpp" />
     <ClInclude Include="preprocessing.hpp" />
   </ItemGroup>

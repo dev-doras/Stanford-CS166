@@ -26,5 +26,8 @@
     <ClInclude Include="preprocessing.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="block_partition.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

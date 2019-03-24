@@ -9,7 +9,7 @@ class PreProcessing
 {
 public:
     T **table;
-    int n;
+    size_t n;
 
     PreProcessing(std::ifstream &input)
     {

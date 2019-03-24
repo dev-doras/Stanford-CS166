@@ -11,7 +11,7 @@ class SimpleTable
 {
 public:
     T **table;
-    int n;
+    size_t n;
 public:
     SimpleTable(std::ifstream &input)
     {
