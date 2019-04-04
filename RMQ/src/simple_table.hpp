@@ -77,6 +77,10 @@ public:
         return table[j][i];
     }
 
+    size_t size() const {
+        return n;
+    }
+
     friend std::ostream & operator<<(std::ostream &os, const SimpleTable<T> &obj)
     {
         for ( size_t j = 0; j < obj.n; ++j )
